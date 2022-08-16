@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace Methods
+namespace Encapsulation
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Hello World!");
         }
     }
